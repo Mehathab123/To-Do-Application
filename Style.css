@@ -50,7 +50,7 @@
 
 .add-todo-button {
   color: white;
-  background-color: #fb6f92;
+  background-color: #03045e;
   font-family: "Roboto";
   font-size: 18px;
   border-width: 0px;
@@ -64,11 +64,11 @@
 }
 
 .label-container {
-  background-color: #ffccd5;
+  background-color: #bde0fe;
   width: 100%;
   border-style: solid;
   border-width: 5px;
-  border-color: #ff0f7b;
+  border-color: #0077b6;
   border-right: none;
   border-top: none;
   border-bottom: none;
